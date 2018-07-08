@@ -9,6 +9,8 @@ gem "rubocop", "0.48.1"
 gem "rubocop-rails"
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+gem 'carrierwave'
+gem 'net-ssh'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
