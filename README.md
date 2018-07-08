@@ -1,6 +1,8 @@
 Instagram Challenge
 ===================
 
+## I used I tutorial called Rials for Girls to build this program.
+
 ## Instructions
 
 * Challenge time: one weekend
